@@ -24,10 +24,12 @@
 
 ## Website URL and GitHub Repository Links
 
-- To access Luis's Top Level Marketing Agency website: [Luis's Top Level Marketing Agency website]()
+- To access Luis's Top Level Marketing Agency website: [Luis's Top Level Marketing Agency website](https://ricanlonghorn23.github.io/Top-Level-Marketing-Agency/)
 - To access Luis's Top Level Marketing Agency repository: [Luis's Top Level Marketing Agency repository](https://github.com/ricanlonghorn23/Top-Level-Marketing-Agency.git)
 
 ## Screenshot of website
+
+![alt text](./assets/images/screenshot.png)
 
 ## Credits
 
